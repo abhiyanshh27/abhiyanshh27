@@ -1,5 +1,6 @@
 <img align="" src="" alt="">
-👋, I’m abhiyansh
+
+<h1 align="center">Hi 👋, I’m Abhiyansh</h1>
 
 
 
