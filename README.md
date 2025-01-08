@@ -9,10 +9,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 <div align="left">
-  <img src="https://img.shie1ds.io/static/v1?message=LinkedIn&logo=linkedin&labe1=&color=ee77B5&logoColor=white&labe1Color=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&labe1=&color=ee77B5&logoColor=white&labe1Color=&style=for-the-badge" height="35" alt="linkedin logo" />
 </div>
 <!---
 abhiyanshh27/abhiyanshh27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
   
+   
