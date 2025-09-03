@@ -32,6 +32,18 @@
 
 ---
 
+
+## 🧑‍💻 Visitors Count  
+![Visitor Count](https://komarev.com/ghpvc/?username=abhiyanshh27&label=Profile%20Views&color=0e75b6&style=flat)  
+
+---
+
+## 💡 Random Dev Quote  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+
+
+---
+
 # 🌍 Connect with me  
 
 <p align="center">
@@ -47,8 +59,9 @@
 
 </p>
 
-___
+---
 
+## 🐍 Contribution Snake  
 ![snake gif](https://github.com/abhiyanshh27/abhiyanshh27/blob/output/github-contribution-grid-snake.gif)
 
 ---
