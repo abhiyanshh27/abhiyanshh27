@@ -61,8 +61,10 @@
 
 ---
 
-## 🐍 Contribution Snake  
-![Snake animation](https://github.com/abhiyanshh27/abhiyanshh27/blob/output/snake.svg)
+<p align="center">
+  <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="600" height="300" />
+</p>
+
 
 ---
 
