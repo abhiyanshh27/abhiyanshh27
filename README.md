@@ -4,8 +4,7 @@
 ---
 
 # 👨‍💻 About Me  
-
-- 🌱 Currently learning **Formal Languages & Automata Theory (FLAT)**  
+ 
 - 🔐 Passionate about **Cybersecurity & Cloud Security**  
 - 💻 Skilled in **Java, Python, JavaScript**  
 - 🎯 Goal: To become a strong developer & security researcher  
