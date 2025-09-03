@@ -1,21 +1,19 @@
-# 👋 Hi, I'm Abhiyansh Vaishnav  
-
-🎓 B.Tech Student | 💻 Developer | ☁️ Cloud & Cybersecurity Enthusiast  
-
-I love exploring **Cybersecurity, Web Development, and Cloud Computing**.  
-Currently building projects in **Java, Python, and JavaScript** while diving deep into **cybersecurity concepts**.  
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abhiyansh+Vaishnav+%F0%9F%91%8B;Developer+%7C+Cloud+%7C+Cybersecurity+Enthusiast;Always+learning+new+things!)](https://git.io/typing-svg)
 
 ---
 
-## 🚀 About Me  
-- 🌱 Currently learning **Formal Languages & Automata Theory (FLAT)** to strengthen my fundamentals.  
-- 🔐 Passionate about **Cybersecurity & Cloud Security**.  
-- 💻 Core programming languages: **Java, Python, JavaScript**.  
-- 🎯 Goal: To become a strong developer & security researcher.  
+# 👨‍💻 About Me  
+
+- 🌱 Currently learning **Formal Languages & Automata Theory (FLAT)**  
+- 🔐 Passionate about **Cybersecurity & Cloud Security**  
+- 💻 Skilled in **Java, Python, JavaScript**  
+- 🎯 Goal: To become a strong developer & security researcher  
+- ⚡ Fun Fact: I believe in *“Keep building, keep learning!”*  
 
 ---
 
-## 🛠 Tech Stack  
+# 🛠 Tech Stack  
 
 **Languages:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
@@ -34,18 +32,33 @@ Currently building projects in **Java, Python, and JavaScript** while diving dee
 
 ---
 
-## 📊 GitHub Stats  
+# 📊 GitHub Stats  
 
-![Abhiyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiyanshvaishnav&show_icons=true&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhiyanshh27&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiyanshh27&theme=radical" alt="GitHub Streak" height="160"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiyanshvaishnav&layout=compact&theme=radical)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhiyanshvaishnav&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiyanshh27&layout=compact&theme=radical" alt="Top Langs" height="140"/>
+</p>
 
 ---
 
-## 🌍 Connect with me  
+# 🌍 Connect with me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/grow_here27)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@growhere)  
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/grow_here27" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@growhere" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐️ From [Abhiyansh Vaishnav](https://github.com/abhiyanshh27)
