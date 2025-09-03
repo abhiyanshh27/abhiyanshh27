@@ -47,6 +47,10 @@
 
 </p>
 
+___
+
+![snake gif](https://github.com/abhiyanshh27/abhiyanshh27/blob/output/github-contribution-grid-snake.gif)
+
 ---
 
 ⭐️ From [Abhiyansh Vaishnav](https://github.com/abhiyanshh27)
